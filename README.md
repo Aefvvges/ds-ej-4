@@ -1,0 +1,1 @@
+Desarrollar un sitio web, que reciba por GET, tu nombre y tu correo electrónico. Crear una variable que almacene lo siguiente: "Hola, [nombre] hemos registrado su correo electrónico correctamente [correo electrónico]". Imprimir la variable creada.
